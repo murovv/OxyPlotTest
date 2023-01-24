@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="OxyPlotTest/App.axaml" value="OxyPlotTest/OxyPlotTest.csproj" />
+        <entry key="OxyPlotTest/Views/MainView.axaml" value="OxyPlotTest/OxyPlotTest.csproj" />
+        <entry key="OxyPlotTest/Views/MainWindow.axaml" value="OxyPlotTest/OxyPlotTest.csproj" />
+        <entry key="OxyPlotTest/Views/PlotView.axaml" value="OxyPlotTest/OxyPlotTest.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
